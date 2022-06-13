@@ -17,7 +17,7 @@
     'catergory': 'Training',
     'version':  '0.1',
     'depends': ['base'],
-    'license': 'GPL-2'
+    'license': 'GPL-2',
     'data': [
         
     ],
