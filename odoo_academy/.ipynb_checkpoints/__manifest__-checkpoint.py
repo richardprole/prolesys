@@ -19,9 +19,9 @@
     'depends': ['base'],
     'license': 'GPL-2',
     'data': [
-        
+        #'demo/academy_demo.xml',
     ],
     'demo': [
-        
+        'demo/academy_demo.xml'
     ],
 }
