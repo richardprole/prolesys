@@ -20,6 +20,8 @@
     'license': 'GPL-2',
     'data': [
         #'demo/academy_demo.xml',
+        #'security/academy_security.xml',
+        #'security/ir.model.csv',
     ],
     'demo': [
         #'demo/academy_demo.xml'
